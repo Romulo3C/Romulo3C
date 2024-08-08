@@ -1,8 +1,8 @@
 ### Boas vindas ao meu perfil 🖤
 Meu nome é Romulo
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
+- Sou frustrado com a vida e a morte me conforta
+- Estou me desenvolvendo na linguagem Gotikah
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### Você pode entrar em contato comigo 📫
